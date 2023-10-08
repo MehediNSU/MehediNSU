@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c50dcd7.css",
-    "main.js": "/static/js/main.7a3b06cf.js",
+    "main.css": "/static/css/main.cd1f70b3.css",
+    "main.js": "/static/js/main.cca5afaa.js",
     "static/media/me.png": "/static/media/me.e508801d3bb038803e77.png",
+    "static/media/VUMI-Bangladesh.png": "/static/media/VUMI-Bangladesh.23c3d6838327d5d2be1b.png",
+    "static/media/Pyramid-Innovation-Ltd.png": "/static/media/Pyramid-Innovation-Ltd.e5d8f307e9e3ddbd619a.png",
     "static/media/project2.png": "/static/media/project2.91ea5ae68dbcdf33b5e5.png",
     "static/media/me-about.jpg": "/static/media/me-about.7ae7331ff4f0ba3c36c3.jpg",
-    "static/media/cv_md_mehedi_hasan.pdf": "/static/media/cv_md_mehedi_hasan.de736d086e2c4a5ea7ff.pdf",
+    "static/media/resume_md_mehedi_hasan.pdf": "/static/media/resume_md_mehedi_hasan.ba92f4617f5b0ff30ad8.pdf",
     "static/media/project4.png": "/static/media/project4.2169cb588d91c3c97a79.png",
-    "static/media/avatar3.jpg": "/static/media/avatar3.a3c9b9653d56c86b33cc.jpg",
-    "static/media/avatar2.webp": "/static/media/avatar2.ad5607c6b8adcec0b4b1.webp",
-    "static/media/avatar4.webp": "/static/media/avatar4.b6fcc43b7ef713e1ac32.webp",
     "static/media/project3.png": "/static/media/project3.b877232ea4561811cc8b.png",
     "static/media/project1.png": "/static/media/project1.ae7601759ceddf214588.png",
     "static/media/logo.jpg": "/static/media/logo.769246042873674e97c2.jpg",
     "index.html": "/index.html",
-    "main.6c50dcd7.css.map": "/static/css/main.6c50dcd7.css.map",
-    "main.7a3b06cf.js.map": "/static/js/main.7a3b06cf.js.map"
+    "main.cd1f70b3.css.map": "/static/css/main.cd1f70b3.css.map",
+    "main.cca5afaa.js.map": "/static/js/main.cca5afaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c50dcd7.css",
-    "static/js/main.7a3b06cf.js"
+    "static/css/main.cd1f70b3.css",
+    "static/js/main.cca5afaa.js"
   ]
 }
