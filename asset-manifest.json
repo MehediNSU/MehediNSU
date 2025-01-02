@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.093f2b9e.css",
-    "main.js": "/static/js/main.1e9a4f07.js",
+    "main.js": "/static/js/main.0ee250c7.js",
     "static/media/me.png": "/static/media/me.e508801d3bb038803e77.png",
     "static/media/VUMI-Bangladesh.png": "/static/media/VUMI-Bangladesh.23c3d6838327d5d2be1b.png",
     "static/media/Pyramid-Innovation-Ltd.png": "/static/media/Pyramid-Innovation-Ltd.e5d8f307e9e3ddbd619a.png",
@@ -14,10 +14,10 @@
     "static/media/logo.jpg": "/static/media/logo.769246042873674e97c2.jpg",
     "index.html": "/index.html",
     "main.093f2b9e.css.map": "/static/css/main.093f2b9e.css.map",
-    "main.1e9a4f07.js.map": "/static/js/main.1e9a4f07.js.map"
+    "main.0ee250c7.js.map": "/static/js/main.0ee250c7.js.map"
   },
   "entrypoints": [
     "static/css/main.093f2b9e.css",
-    "static/js/main.1e9a4f07.js"
+    "static/js/main.0ee250c7.js"
   ]
 }
